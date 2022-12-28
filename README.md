@@ -1,1 +1,2 @@
-I wanted to find an answer to the question "Which problems I should pick next?"
+I wanted to find an answer to the question "Which problems I should pick next?"<br>
+![problems image](./ss1.png "Problems")
